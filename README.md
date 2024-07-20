@@ -27,7 +27,7 @@ This is an example of how the program would be used to scan an IP of which we ne
 
 <h3> <em> Script Status </em> </h3>
 
-![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
+![Badge in Development](https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-green)
 
 
 
